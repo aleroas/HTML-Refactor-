@@ -10,4 +10,4 @@ Changes:
 
 
 Screenshot:
-![image](https://github.com/aleroas/HTML-Refactor-/assets/159299095/1fa80c45-8d64-4118-891c-a3632691659a)
+
