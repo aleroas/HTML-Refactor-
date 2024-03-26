@@ -12,4 +12,4 @@ Changes:
 Screenshot:
 ![Screen Shot 2024-03-26 at 5 05 43 PM](https://github.com/aleroas/HTML-Refactor-/assets/159299095/1032d44e-b2f5-4b47-9bc0-2767621b0b62)
 ![Screen Shot 2024-03-26 at 5 05 51 PM](https://github.com/aleroas/HTML-Refactor-/assets/159299095/4f1f5391-df08-4ab2-a0e2-678c4a73afe3)
-![Screen Shot 2024-03-26 at 5 05 54 PM](https://github.com/aleroas/HTML-Refactor-/assets/159299095/d8c8f99f-b911-44fe-93f0-72e20b29275e)
+![Screen Shot 2024-03-26 at 5 07 31 PM](https://github.com/aleroas/HTML-Refactor-/assets/159299095/65e111ee-b3f2-4179-9719-6d926e4db13c)
